@@ -1,2 +1,2 @@
 const array = ['obed','lama']
-console.log(array)
+console.log(array[0])
